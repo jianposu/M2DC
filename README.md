@@ -29,6 +29,7 @@ Psychiatric diseases are bringing heavy burdens for both individual health and s
 
 # Implementation
 Example for implementing the M2DC algorithm for generalizable diagnostic classification:
+Use timecourse extracted based on the AAL atlas, using temperature coefficient t, using M2DC method, distance coefficient dp, distance threshold dt, hidden dimension h, window stride ws, and number of sources ns, for classification. 
 ```
-python /HOME/scz0abb/run/jianpo/dynamic_GNN/main.py --roi aal --targetsite $s --tau $t --meta_method m3l_cluster --dis_para $dp --dis_thres $dt --hidden_dim $h --window_stride $ws --num_src $ns --seed 111 
+python main.py --roi aal --targetsite $s --tau $t --meta_method m3l_cluster --dis_para $dp --dis_thres $dt --hidden_dim $h --window_stride $ws --num_src $ns
 ```
