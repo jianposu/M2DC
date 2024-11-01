@@ -1,5 +1,5 @@
 # M^2^DC
-M^2^DC: A Meta-Learning Framework for Generalizable Diagnostic Classification of Major Depressive Disorder
+M<sup>2</sup>DC: A Meta-Learning Framework for Generalizable Diagnostic Classification of Major Depressive Disorder
 
 This code implements the group DRO algorithm from the following paper:
 
