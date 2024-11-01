@@ -10,17 +10,17 @@ Psychiatric diseases are bringing heavy burdens for both individual health and s
 
 # Prerequisites:
 - python 3.8
--os
--random
--torch
--numpy
--tqdm
--einops
--torchvision
--time
--pathlib
--sklearn
--csv
--copy
--argparse
--datetime
+- os
+- random
+- torch
+- numpy
+- tqdm
+- einops
+- torchvision
+- time
+- pathlib
+- sklearn
+- csv
+- copy
+- argparse
+- datetime
